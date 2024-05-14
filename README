@@ -1,0 +1,32 @@
+//ENCE260 UCFK4 Assingment
+//TWO PLAYER PONG
+//AUTHOR: Jared Jones Pankhurst and Manjeet Panwar
+
+//PONG
+The objective of the game is to hit the ball back to the other player,
+and not allow the ball to miss your paddle.
+
+
+//Start game:
+1. Set up the boards with ir receivers and senders facing each other.
+2. In terminal use make command and make program to run the game.
+3. The player who wishes to start the game, push down the navswitch and 
+   this will make the ball appear on their display.
+4. Use the  navswitch to control your paddle.
+5. Play the game.
+Note: Only one player should push down on the navswitch, if both players do so, it will break the game.
+
+
+//Winning and Losing the game
+- If the ball misses your paddle and hits the back wall (column closest to you),
+  you lose, and your opponent wins.
+- Likewise if your opponent misses the ball, you win and they lose.
+- The winner board will show 'W' and the loser board will show 'L'.
+- In order to play again, the game will need to be reloaded on to the FunKits by 
+  using make program command in terminal.
+
+
+
+
+
+
